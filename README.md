@@ -32,6 +32,5 @@ cd one-key-hidpi
 - Ethernet
 - USB
 - Wifi
-- Airdrop, Hand-off, Sidecar
 - App store, iCloud, iMessage, iTunes, FaceTime, etc
 - Sleep, Wakeup, Shutdown, Restart
